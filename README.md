@@ -319,10 +319,6 @@ Department of Computer Science and Engineering (CSE-B)
 KIT – Kalaignarkarunanidhi Institute of Technology  
 Academic batch: 2024–2028
 
-## 📄 License
-
-No license file was present in the supplied source tree. Add a `LICENSE` file before presenting this repository as open source.
-
 ---
 
 <div align="center">
